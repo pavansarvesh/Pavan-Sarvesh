@@ -1,10 +1,11 @@
+<!---
 - 👋 Hi, I’m @Pavan-Sarvesh
 - 👀 I’m interested in Web-Development, Blockchains & AI-ML
 - 🌱 I’m currently learning Python
 
 
 
-<!---
+
 
 
 
